@@ -1,0 +1,8 @@
+2021-02-04 15:34:34,478 :INFO : test_chatBox : Chatbox is displayed
+2021-02-04 15:35:24,001 :INFO : test_failedLogin : Entering incorrect username
+2021-02-04 15:35:46,288 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-02-04 15:37:08,466 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-02-04 15:37:08,490 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-02-04 15:37:08,491 :INFO : test_freeDelivery : Offer is working
+2021-02-04 15:37:58,814 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-02-04 15:38:21,332 :INFO : test_successfulLogin : message displayed is Welcome Michael

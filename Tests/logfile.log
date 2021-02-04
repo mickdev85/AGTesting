@@ -1,0 +1,207 @@
+2021-01-19 17:01:14,654 :INFO : test_failedLogin : Entering incorrect username
+2021-01-19 17:01:36,576 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-19 17:09:39,687 :INFO : test_failedLogin : Entering incorrect username
+2021-01-19 17:10:01,620 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-19 17:10:51,281 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-19 17:14:32,769 :INFO : test_chatBox : Chatbox is displayed
+2021-01-19 17:15:22,136 :INFO : test_failedLogin : Entering incorrect username
+2021-01-19 17:15:44,003 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-19 17:16:32,970 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-19 17:23:12,241 :INFO : test_chatBox : Chatbox is displayed
+2021-01-19 17:24:01,960 :INFO : test_failedLogin : Entering incorrect username
+2021-01-19 17:24:23,900 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-19 17:26:23,783 :INFO : test_chatBox : Chatbox is displayed
+2021-01-19 17:27:13,645 :INFO : test_failedLogin : Entering incorrect username
+2021-01-19 17:27:35,452 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-19 17:28:24,935 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-19 17:28:47,240 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-20 08:47:27,632 :INFO : test_chatBox : Chatbox is displayed
+2021-01-20 08:48:19,612 :INFO : test_failedLogin : Entering incorrect username
+2021-01-20 08:48:42,016 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-20 08:49:33,240 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-20 08:49:56,170 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 09:44:28,399 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 09:45:17,558 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 09:45:39,463 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 09:47:45,528 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 09:48:07,593 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 09:52:24,069 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 09:53:13,226 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 09:53:35,347 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 09:55:41,200 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 09:56:03,186 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 10:07:26,659 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 10:08:15,972 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 10:08:37,936 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 10:10:22,215 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 10:10:44,227 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 10:28:16,965 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 10:28:16,993 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 10:28:16,993 :INFO : test_freeDelivery : Offer is working
+2021-01-21 10:35:36,529 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 10:35:36,556 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 10:35:36,556 :INFO : test_freeDelivery : Offer is working
+2021-01-21 10:52:26,995 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 10:53:16,104 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 10:53:38,033 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 10:54:54,829 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 10:54:54,855 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 10:54:54,857 :INFO : test_freeDelivery : Offer is working
+2021-01-21 10:55:44,220 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 10:56:06,196 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 11:55:54,720 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 11:56:45,859 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 11:57:08,460 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 11:58:56,439 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 11:59:18,950 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 12:24:06,085 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 12:24:57,093 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 12:25:19,304 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 12:26:36,601 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 12:26:36,625 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 12:26:36,633 :INFO : test_freeDelivery : Offer is working
+2021-01-21 12:27:26,628 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 12:27:49,276 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 12:33:56,343 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 12:44:14,570 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 12:45:06,167 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 12:45:28,901 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 12:46:46,023 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 12:46:46,055 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 12:46:46,055 :INFO : test_freeDelivery : Offer is working
+2021-01-21 12:47:36,359 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 12:47:59,583 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 13:21:38,524 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 13:22:30,655 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 13:23:53,440 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 13:23:53,480 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 13:23:53,480 :INFO : test_freeDelivery : Offer is working
+2021-01-21 13:24:45,304 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 13:25:08,681 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 13:29:15,606 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 13:30:08,407 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 13:30:31,362 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 13:32:22,076 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 13:32:45,183 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 13:36:35,620 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 13:36:35,652 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 13:36:35,652 :INFO : test_freeDelivery : Offer is working
+2021-01-21 13:41:53,806 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 13:42:45,726 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 13:43:08,839 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 13:44:28,135 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 13:44:28,175 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 13:44:28,183 :INFO : test_freeDelivery : Offer is working
+2021-01-21 13:45:19,583 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 13:45:42,581 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 14:00:30,718 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 14:01:22,603 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 14:01:45,373 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 14:03:04,643 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 14:03:04,691 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 14:03:04,691 :INFO : test_freeDelivery : Offer is working
+2021-01-21 14:03:55,870 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 14:04:18,838 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 14:19:01,440 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 14:20:24,393 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 14:20:47,857 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 14:22:37,251 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 14:23:00,685 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 16:00:22,468 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 16:01:13,484 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 16:01:36,306 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 16:03:24,308 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 17:38:27,686 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 17:39:20,053 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 17:39:42,433 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-21 17:41:02,075 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 17:41:02,143 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 17:41:02,151 :INFO : test_freeDelivery : Offer is working
+2021-01-21 17:41:53,428 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 17:42:15,887 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-21 17:43:43,684 :INFO : test_chatBox : Chatbox is displayed
+2021-01-21 17:44:35,301 :INFO : test_failedLogin : Entering incorrect username
+2021-01-21 17:45:56,875 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-21 17:45:56,923 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-21 17:45:56,923 :INFO : test_freeDelivery : Offer is working
+2021-01-21 17:46:48,508 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-21 17:47:11,084 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-22 09:41:26,005 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 09:41:26,054 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 09:41:26,054 :INFO : test_freeDelivery : Offer is working
+2021-01-22 09:43:15,313 :INFO : test_chatBox : Chatbox is displayed
+2021-01-22 09:44:04,602 :INFO : test_failedLogin : Entering incorrect username
+2021-01-22 09:44:26,628 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-22 09:45:48,758 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 09:45:48,784 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 09:45:48,785 :INFO : test_freeDelivery : Offer is working
+2021-01-22 09:46:38,163 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-22 09:47:00,448 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-22 09:48:58,129 :INFO : test_chatBox : Chatbox is displayed
+2021-01-22 09:49:47,303 :INFO : test_failedLogin : Entering incorrect username
+2021-01-22 09:50:09,310 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-22 09:51:30,392 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 09:51:30,417 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 09:51:30,418 :INFO : test_freeDelivery : Offer is working
+2021-01-22 09:52:20,400 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-22 09:52:42,831 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-22 09:55:43,301 :INFO : test_chatBox : Chatbox is displayed
+2021-01-22 09:56:32,455 :INFO : test_failedLogin : Entering incorrect username
+2021-01-22 09:56:54,491 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-22 09:58:16,111 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 09:58:16,135 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 09:58:16,135 :INFO : test_freeDelivery : Offer is working
+2021-01-22 09:59:05,666 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-22 09:59:28,282 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-22 10:07:49,438 :INFO : test_chatBox : Chatbox is displayed
+2021-01-22 10:08:39,311 :INFO : test_failedLogin : Entering incorrect username
+2021-01-22 10:09:01,259 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-22 10:10:22,670 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 10:10:22,695 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 10:10:22,695 :INFO : test_freeDelivery : Offer is working
+2021-01-22 10:11:12,350 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-22 10:11:34,905 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-22 10:12:26,897 :INFO : test_chatBox : Chatbox is displayed
+2021-01-22 10:13:16,150 :INFO : test_failedLogin : Entering incorrect username
+2021-01-22 10:13:38,073 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-22 10:14:59,973 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 10:14:59,998 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 10:14:59,999 :INFO : test_freeDelivery : Offer is working
+2021-01-22 10:15:51,053 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-22 10:16:13,073 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-22 13:47:59,761 :INFO : test_chatBox : Chatbox is displayed
+2021-01-22 13:54:29,726 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 13:54:29,790 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 13:54:29,790 :INFO : test_freeDelivery : Offer is working
+2021-01-22 13:58:29,380 :INFO : test_chatBox : Chatbox is displayed
+2021-01-22 13:59:22,231 :INFO : test_failedLogin : Entering incorrect username
+2021-01-22 13:59:45,033 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-22 14:01:09,945 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 14:01:10,032 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 14:01:10,040 :INFO : test_freeDelivery : Offer is working
+2021-01-22 14:02:01,064 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-22 14:02:23,867 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-22 14:04:58,136 :INFO : test_failedLogin : Entering incorrect username
+2021-01-22 14:05:21,112 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-22 14:06:32,845 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-22 14:06:56,536 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-22 14:08:49,387 :INFO : test_chatBox : Chatbox is displayed
+2021-01-22 14:09:40,320 :INFO : test_failedLogin : Entering incorrect username
+2021-01-22 14:10:03,888 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-22 14:11:27,632 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-22 14:11:27,699 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-22 14:11:27,699 :INFO : test_freeDelivery : Offer is working
+2021-01-22 14:12:19,336 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-22 14:12:41,804 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-25 08:49:49,042 :INFO : test_chatBox : Chatbox is displayed
+2021-01-25 08:50:40,341 :INFO : test_failedLogin : Entering incorrect username
+2021-01-25 08:51:03,877 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-25 08:52:28,298 :INFO : test_freeDelivery : Total amount of purchase is149.90
+2021-01-25 08:52:28,372 :INFO : test_freeDelivery : Delivery amount is0.00
+2021-01-25 08:52:28,380 :INFO : test_freeDelivery : Offer is working
+2021-01-25 08:53:20,936 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-25 08:53:43,634 :INFO : test_successfulLogin : message displayed is Welcome Michael
+2021-01-25 18:04:54,025 :INFO : test_failedLogin : Entering incorrect username
+2021-01-25 18:05:16,807 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-01-25 18:06:08,795 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-01-25 18:06:31,672 :INFO : test_successfulLogin : message displayed is Welcome Michael

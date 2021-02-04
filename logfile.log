@@ -1,0 +1,5 @@
+2021-02-04 15:08:46,395 :INFO : test_chatBox : Chatbox is displayed
+2021-02-04 15:09:35,923 :INFO : test_failedLogin : Entering incorrect username
+2021-02-04 15:09:57,891 :INFO : test_failedLogin : Text displayed is Sorry, this does not match our records. Check your spelling and try again.
+2021-02-04 15:11:43,405 :INFO : test_successfulLogin : username is mick.dev@live.com
+2021-02-04 15:12:05,533 :INFO : test_successfulLogin : message displayed is Welcome Michael
